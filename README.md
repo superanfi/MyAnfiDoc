@@ -1,2 +1,3 @@
 # MyAnfiDoc
-My documentation test repository
+My documentation test repository.
+Repository for testing publishing procedures.
